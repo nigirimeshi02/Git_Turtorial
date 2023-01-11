@@ -13,6 +13,8 @@ int main(void)
 	{
 		printf("Good Good");
 	}
+	int num = 5;
+	printf("%d\n", num);
 
 	return 0;
 }
